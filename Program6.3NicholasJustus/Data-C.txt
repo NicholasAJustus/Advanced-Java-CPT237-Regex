@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta content="upgrade-insecure-requests" http-equiv="Content-Security-Policy"/>
+		<meta content="block-all-mixed-content" http-equiv="Content-Security-Policy"/>
+		<meta charset="utf-8"/>
+		<meta content="initial-scale=1.0, width=device-width" name="viewport"/>
+		<title>
+			Home - Trident Technical College
+		
+		
+		</title>
+		<meta content="The official website of Trident Technical College in Charleston, South Carolina" name="description"/>
+		<meta content="Trident Technical College" name="author"/>
+		<meta content="27197b1bac1e00e8065f0eb6405796a2" name="id"/>
+		<meta content="Welcome to Trident Technical College in Charleston, SC  " name="description"/>
+		<meta content="TTC, Trident Technical College, South Carolina, Charleston " name="keywords"/>
+		<meta content="user-scalable=yes, initial-scale=1.0, width=320" name="viewport"/>
+		<link href="_files/css/basicReset.css" rel="stylesheet"/>
+		<link href="_files/css/menus/mobileNav.css" rel="stylesheet"/> <link href="_files/css/menus/dropdownMenu.css" rel="stylesheet"/>
+		<link href="_files/css/layouts/header/frontPageHeaderLayout.css" rel="stylesheet"/>
+		
+ <link href="_files/css/layouts/body/frontPageBodyLayout.css" rel="stylesheet"/>
+
+		<link href="_files/css/layouts/footer/footerLayout.css" rel="stylesheet"/>
+		<link href="_files/css/styles/header/frontPageHeaderStyles.css" rel="stylesheet"/> <link href="_files/css/styles/body/frontPageBodyStyles.css" rel="stylesheet"/> <link href="_files/css/styles/body/textStyles.css" rel="stylesheet"/> <link href="_files/css/styles/body/photoStyles.css" rel="stylesheet"/>
+		
+ <link href="_files/css/colorThemes/colorBeach.css" rel="stylesheet"/>
+
+		
+		<link href="_files/css/skipMainStyles.css" rel="stylesheet"/>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js" type="text/javascript"></script>
+		
+		<!--<system-region name="ACCESSIBILITY FOR NAV"/>-->
+		<!-- Java Script -->
+		<script src="_files/js/MenubarItemsLinks.js" type="text/javascript"></script>
+		<script src="_files/js/MenubarLinks.js" type="text/javascript"></script>
+		<script src="_files/js/PopupMenuItemLinks.js" type="text/javascript"></script>
+		<script src="_files/js/PopupMenuLinks.js" type="text/javascript"></script>
+		<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4866742-1']);
+  _gaq.push(['_setDomainName', 'tridenttech.edu']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'https://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+		
+	<script async="async" src="//cti.w55c.net/ct/dx_upx_0DBsOe3hUe.js"></script>
+
+		<!-- Hotjar Tracking Code for https://www.tridenttech.edu/ --><script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:1045739,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+		<!-- START::Zipline View Tag; DO NOT MODIFY TAG except to replace {emailSha1Hash}-->
+<script type="text/javascript">// <![CDATA[
+var _ibel = document.createElement('script');
+_ibel.type = 'text/javascript';
+_ibel.src = '//ib.mookie1.com/ibiview.js?go=315789&id1={emailSha1Hash}';
+(document.getElementsByTagName('body')[0] || document.getElementsByTagName('head')[0]).appendChild(_ibel);
+// ]]></script>
+<noscript><iframe src="//ib.mookie1.com/view.html?go=315789" style="display: none;"></iframe></noscript><!-- END::Zipline View Tag -->
+		<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1689180497995161'); 
+fbq('track', 'PageView');
+</script>
+<noscript>
+<img alt="" height="1" src="https://www.facebook.com/tr?id=1689180497995161&amp;ev=PageView &amp;noscript=1" width="1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+
+	</head>
+	<body>
+		<!--SKIP-MAIN LINK-->
+		<a class="skip" href="#skipToMainContent">Skip to content</a>
+		<nav id="overlay">
+			<div class="topNavBar leftNavColor">
+				<a href="#">Apply Now</a>
+			</div>
+			<div class="mobileSearch headerColor"><img alt="Close menu" class="navButton" height="27" id="close-menu" src="_files/images/interface/carrot.png" width="16"/>
+<div class="mobileSearchBox">
+<script async="" src="https://cse.google.com/cse.js?cx=014285712495053241290:qwxkbktozv0"></script>
+<div class="gcse-searchbox-only" data-resultsurl="https://www.tridenttech.edu/search-results.htm"></div>
+</div>
+</div>
+<div class="topNavBar leftNavColor">
+<ul>
+<li><a href="https://my.tridenttech.edu/">TTC Portal</a></li>
+<li><a href="academics/catalogs.htm">Campuses</a></li>
+<li><a href="start/apply/calendars/index.htm">Calendars</a></li>
+<li><a href="academics/catalogs.htm">Catalog</a></li>
+<li><a href="https://bookstore.tridenttech.edu/">Bookstore</a></li>
+<li><a href="student/resources/library/index.htm">Library</a></li>
+</ul>
+</div>
+<ul class="mainMenu lightColor">
+<li><a href="index.HTM" id="home">Home</a></li>
+<li><a href="#" id="MM1">About Us</a>
+<ul class="subMenu" id="SM1">
+<li><a href="about/index.htm">About TTC</a></li>
+<li><a href="about/ttc/ttc_news.htm">News</a></li>
+<li><a href="about/departments/index.htm">Departments</a></li>
+<li><a href="about/locations/index.htm">Locations</a></li>
+<li><a href="about/policies/index.htm">Policies &amp; Procedures</a></li>
+<li><a href="about/titleIX/index.htm">Title IX</a></li>
+<li><a href="about/departments/finance/index.htm">Financial Transparency</a></li>
+</ul>
+</li>
+<li><a href="#" id="MM2">Get Started</a>
+<ul class="subMenu" id="SM2">
+<li><a href="start/expect/index.htm">What To Expect</a></li>
+<li><a href="start/before/index.htm">Before You Start</a></li>
+<li><a href="start/expect/ad_essinfo.htm">Essential Consumer Information</a></li>
+<li><a href="start/apply/index.htm">How To Apply</a></li>
+<li><a href="start/registrar/index.htm">How To Register</a></li>
+<li><a href="start/international/index.htm">International Students</a></li>
+<li><a href="start/highschool/index.htm">High School Students</a></li>
+<li><a href="career/workforce/car_youth_apprentice.htm" title="Charleston Regional Youth Apprenticeships">Youth Apprenticeships</a></li>
+</ul>
+</li>
+<li><a href="#" id="MM3">Pay For College</a>
+<ul class="subMenu" id="SM3">
+<li><a href="pay/index.htm">Financial Aid Office</a></li>
+<li><a href="pay/apply/index.htm">Apply For Financial Aid</a></li>
+<li><a href="pay/available/index.htm">Financial Aid Available</a></li>
+<li><a href="pay/keeping/index.htm">Keeping Your Financial Aid</a></li>
+<li><a href="pay/cost/index.htm">Tuition &amp; Payment</a></li>
+</ul>
+</li>
+<li><a href="#" id="MM4">Take Classes</a>
+<ul class="subMenu" id="SM4">
+<li><a href="academics/areas/index.htm">Areas of Interest</a></li>
+<li><a href="academics/divisions/index.htm">Academic Divisions</a></li>
+<li><a href="academics/intro/index.htm">How College Works</a></li>
+<li><a href="academics/online/index.htm">Online College</a></li>
+<!--<li><a href="/academics/evening/index">Evening College</a></li>-->
+<li><a href="academics/transfer/index.htm">Transfer Programs</a></li>
+<li><a href="academics/divisions/course_search.htm">Course Search</a></li>
+<li><a href="https://onlcourses.tridenttech.edu/">Access My Courses (D2L)</a></li>
+<li><a href="academics/notSure.htm">Credit vs NonCredit</a></li>
+<li><a href="https://www.tridenttech.edu/ce/index.htm">Continuing Education</a></li>
+</ul>
+</li>
+<li><a href="#" id="MM5">Student Resources</a>
+<ul class="subMenu" id="SM5">
+<li><a href="student/index.htm">Student Services</a></li>
+<li><a href="student/life/st_act.htm">Student Life</a></li>
+<li><a href="student/help/index.htm">Support &amp; Help</a></li>
+<li><a href="student/resources/index.htm">Learning Resources</a></li>
+<li><a href="student/help/military/index.htm">Military Resources</a></li>
+<li><a href="student/LoginHelp.htm">Student Login Help</a></li>
+</ul>
+</li>
+<li><a href="#" id="MM6">Career Help</a>
+<ul class="subMenu" id="SM6">
+<li><a href="career/help/index.htm">Student Employment Services</a></li>
+<li><a href="student/help/counseling/st_carcoun.htm">Career Counseling</a></li>
+<li><a href="about/departments/hr/index.htm">Jobs At TTC</a></li>
+<li><a href="career/workforce/index.htm">Equip Your Workforce</a></li>
+<li><a href="https://www.sctrac.org" rel="noopener noreferrer" target="_blank">sctrac.org</a></li>
+</ul>
+</li>
+<li><a href="#" id="MM7">Support TTC</a>
+<ul class="subMenu" id="SM7">
+<li><a href="foundation/index.htm">TTC Foundation</a></li>
+<li><a href="foundation/helping/index.htm">How We Help</a></li>
+<li><a href="foundation/info/index.htm">Who We Are</a></li>
+<li><a href="foundation/support/index.htm">Ways To Support</a></li>
+<li><a href="foundation/news/index.htm">News</a></li>
+<li><a href="foundation/events/index.htm">Events</a></li>
+<li><a href="foundation/alumni/index.htm">Alumni &amp; Friends</a></li>
+<li><a href="foundation/support/DonateNow.htm">Donate Now</a></li>
+</ul>
+</li>
+</ul>
+		</nav>
+		<header>
+			<div class="topLinks">
+<ul>
+<li><a href="https://my.tridenttech.edu/">TTC Portal</a></li>
+<li><a href="about/locations/index.htm">Campuses</a></li>
+<li><a href="start/apply/calendars/index.htm">Calendars</a></li>
+<li><a href="academics/catalogs.htm">Catalog</a></li>
+<li><a href="https://bookstore.tridenttech.edu/">Bookstore</a></li>
+<li><a href="student/resources/library/index.htm">Library</a></li>
+</ul>
+</div>
+			<div class="headerBar headerColor">
+				<img alt="Logo TTC" class="headerLogo" src="_files/images/interface/TTCLogo.png"/>
+				<div class="searchBox">
+					<script async="" src="https://cse.google.com/cse.js?cx=014285712495053241290:qwxkbktozv0"></script>
+<div class="gcse-searchbox-only" data-resultsurl="https://www.tridenttech.edu/search-results.htm"></div>
+				</div>
+				<img alt="hamburger menu" class="menuButton" id="open-menu" src="_files/images/interface/menuIcon.png"/>
+			</div>
+			<div class="navBar darkColor">
+				<div class="navBar darkColor"><nav aria-label="Main Navigation Bar">
+<ul aria-label="Navigation Menu" id="menubar1" role="menubar">
+<li role="none"><a href="index.HTM" role="menuitem" tabindex="-1">Home</a></li>
+<li role="none"><a aria-expanded="false" aria-haspopup="true" href="#" role="button" tabindex="0">About Us</a>
+<ul aria-label="About" role="menu">
+<li role="none"><a href="about/index.htm" role="menuitem" tabindex="-1">About TTC</a></li>
+<li role="none"><a href="about/ttc/ttc_news.htm" role="menuitem" tabindex="-1">News</a></li>
+<li role="none"><a href="about/departments/index.htm" role="menuitem" tabindex="-1">Departments</a></li>
+<li role="none"><a href="about/locations/index.htm" role="menuitem" tabindex="-1">Locations</a></li>
+<li role="none"><a href="about/policies/index.htm" role="menuitem" tabindex="-1">Policies &amp; Procedures</a></li>
+<li role="none"><a href="about/titleIX/index.htm" role="menuitem" tabindex="-1">Title IX</a></li>
+<li role="none"><a href="about/departments/finance/index.htm" role="menuitem" tabindex="-1">Financial Transparency</a></li>
+</ul>
+</li>
+<li role="none"><a aria-expanded="false" aria-haspopup="true" href="#" role="button" tabindex="-1">Get Started</a>
+<ul aria-label="Get Started" role="menu">
+<li role="none"><a href="start/expect/index.htm" role="menuitem" tabindex="-1">What To Expect</a></li>
+<li role="none"><a href="start/before/index.htm" role="menuitem" tabindex="-1">Before You Start</a></li>
+<li role="none"><a href="start/expect/ad_essinfo.htm" role="menuitem" tabindex="-1">Essential Consumer Information</a></li>
+<li role="none"><a href="start/apply/index.htm" role="menuitem" tabindex="-1">How To Apply</a></li>
+<li role="none"><a href="start/registrar/index.htm" role="menuitem" tabindex="-1">How To Register</a></li>
+<li role="none"><a href="start/international/index.htm" role="menuitem" tabindex="-1">International Students</a></li>
+<li role="none"><a href="start/highschool/index.htm" role="menuitem" tabindex="-1">High School Students</a></li>
+<li role="none"><a href="career/workforce/car_youth_apprentice.htm" title="Charleston Regional Youth Apprenticeships">Youth Apprenticeships</a></li>
+</ul>
+</li>
+<li role="none"><a aria-expanded="false" aria-haspopup="true" href="#" role="button" tabindex="-1">Pay For College</a>
+<ul aria-label="Pay For College" role="menu">
+<li role="none"><a href="pay/index.htm" role="menuitem" tabindex="-1">Financial Aid Office</a></li>
+<li role="none"><a href="pay/apply/index.htm" role="menuitem" tabindex="-1">Apply For Financial Aid</a></li>
+<li role="none"><a href="pay/available/index.htm" role="menuitem" tabindex="-1">Financial Aid Available</a></li>
+<li role="none"><a href="pay/keeping/index.htm" role="menuitem" tabindex="-1">Keeping Your Financial Aid</a></li>
+<li role="none"><a href="pay/cost/index.htm" role="menuitem" tabindex="-1">Tuition &amp; Payment</a></li>
+</ul>
+</li>
+<li role="none"><a aria-expanded="false" aria-haspopup="true" href="#" role="button" tabindex="-1">Take Classes</a>
+<ul aria-label="Take Classes" role="menu">
+<li role="none"><a href="academics/areas/index.htm" role="menuitem" tabindex="-1">Areas of Interest</a></li>
+<li role="none"><a href="academics/divisions/index.htm" role="menuitem" tabindex="-1">Academic Divisions</a></li>
+<li role="none"><a href="academics/intro/index.htm" role="menuitem" tabindex="-1">How College Works</a></li>
+<li role="none"><a href="academics/online/index.htm" role="menuitem" tabindex="-1">Online College</a></li>
+<!--<li role="none"><a href="/academics/evening/index" role="menuitem" tabindex="-1">Evening College</a></li>-->
+<li role="none"><a href="academics/transfer/index.htm" role="menuitem" tabindex="-1">Transfer Programs</a></li>
+<li role="none"><a href="academics/divisions/course_search.htm" role="menuitem" tabindex="-1">Course Search</a></li>
+<li role="none"><a href="https://onlcourses.tridenttech.edu/" role="menuitem" tabindex="-1">Access My Courses (D2L)</a></li>
+<li role="none"><a href="academics/notSure.htm" role="menuitem" tabindex="-1">Credit and NonCredit</a></li>
+<li role="none"><a href="https://www.tridenttech.edu/ce/index.htm" role="menuitem" tabindex="-1">Continuing Education</a></li>
+</ul>
+</li>
+<li role="none"><a aria-expanded="false" aria-haspopup="true" href="#" role="button" tabindex="-1">Student Resources</a>
+<ul aria-label="Student Resources" role="menu">
+<li role="none"><a href="student/index.htm" role="menuitem" tabindex="-1">Student Services</a></li>
+<li role="none"><a href="student/life/st_act.htm" role="menuitem" tabindex="-1">Student Life</a></li>
+<li role="none"><a href="student/help/index.htm" role="menuitem" tabindex="-1">Support &amp; Help</a></li>
+<li role="none"><a href="student/resources/index.htm" role="menuitem" tabindex="-1">Learning Resources</a></li>
+<li role="none"><a href="student/help/military/index.htm" role="menuitem" tabindex="-1">Military Resources</a></li>
+<li role="none"><a href="student/LoginHelp.htm" role="menuitem" tabindex="-1">Student Login Help</a></li>
+</ul>
+</li>
+<li role="none"><a aria-expanded="false" aria-haspopup="true" href="#" role="button" tabindex="-1">Career Help</a>
+<ul aria-label="Career Help" role="menu">
+<li role="none"><a href="career/help/index.htm" role="menuitem" tabindex="-1">Student Employment Services</a></li>
+<li role="none"><a href="student/help/counseling/st_carcoun.htm" role="menuitem" tabindex="-1">Career Counseling</a></li>
+<li role="none"><a href="about/departments/hr/index.htm" role="menuitem" tabindex="-1">Jobs At TTC</a></li>
+<li role="none"><a href="career/workforce/index.htm" role="menuitem" tabindex="-1">Equip Your Workforce</a></li>
+<li role="none"><a href="https://www.sctrac.org" rel="noopener noreferrer" role="menuitem" tabindex="-1" target="_blank">sctrac.org</a></li>
+</ul>
+</li>
+<li role="none"><a aria-expanded="false" aria-haspopup="true" href="#" role="button" tabindex="-1">Support TTC</a>
+<ul aria-label="Support TTC" role="menu">
+<li role="none"><a href="foundation/index.htm" role="menuitem" tabindex="-1">TTC Foundation</a></li>
+<li role="none"><a href="foundation/helping/index.htm" role="menuitem" tabindex="-1">How We Help</a></li>
+<li role="none"><a href="foundation/info/index.htm" role="menuitem" tabindex="-1">Who We Are</a></li>
+<li role="none"><a href="foundation/support/index.htm" role="menuitem" tabindex="-1">Ways To Support</a></li>
+<li role="none"><a href="https://ttcchangestartshere.blogspot.com" role="menuitem" tabindex="-1">News</a></li>
+<li role="none"><a href="foundation/events/index.htm" role="menuitem" tabindex="-1">Events</a></li>
+<li role="none"><a href="foundation/alumni/index.htm" role="menuitem" tabindex="-1">Alumni &amp; Friends</a></li>
+<li role="none"><a href="foundation/support/DonateNow.htm" role="menuitem" tabindex="-1">Donate Now</a></li>
+</ul>
+</li>
+</ul>
+</nav></div>
+			</div>
+		</header>
+		<div class="content">
+			<div class="photoBack"></div>
+			
+
+			
+			    <p class="emergencyMessage tertiaryColor">TTC campuses are open with safety measures in place to prevent the spread of COVID-19 <a href="about/departments/safety/ttc_fluInfo.htm">Learn More &gt;</a></p>
+			    
+		    
+
+			<div id="skipToMainContent"></div>
+					
+		<!--<div class="bigText">
+			<a aria-label="Live Help" class="heroLink" href="https://www.tridenttech.edu/landing/reset.htm">
+				<p class="bigWord copyRight">Live Help</p>
+				<p class="smallWords">M-F 10 a.m.-8 p.m.</p>
+			</a>
+			
+			<p class="twoLinks">
+				<a href="#">Request Information ></a>
+				<a href="#">Schedule A Tour ></a>
+			</p>
+		</div> -->
+
+		<div class="bigText">
+			<a class="heroLink" href="02Start.htm">
+				<p class="bigWord">Enroll</p>
+				<p class="smallWords">now for Spring &gt;</p>
+			</a> 
+			<p class="twoLinks">
+				<a href="start/apply/index.htm">Apply To Trident Tech &gt;</a>
+				<a href="start/apply/ad_orientation.htm">Admission Help &gt;</a>
+			</p>
+		</div>
+		
+        <div class="bigText">
+			<a class="heroLink" href="01Learn.htm">
+				<p class="bigWord">Learn</p>
+				<p class="smallWords">about Trident Tech &gt;</p>
+			</a> 
+			<p class="twoLinks">
+				<a href="https://my.spectate.com/request-information-trident-technical-college-page">Request Information &gt;</a>
+				<a href="https://www.tridenttech.edu/landing/freetuition_fall2020.htm">Free Tuition &gt;</a>
+			</p>
+		</div>
+		
+		<div class="bigText">
+			<a class="heroLink" href="03Explore.htm">
+				<p class="bigWord">Explore</p>
+				<p class="smallWords">areas of interest &gt;</p>
+			</a> 
+			<p class="twoLinks">
+				<!--<a href="academics/intro/index">Types of Programs &gt;</a>-->
+				<a href="academics/divisions/course_search.htm">Course Search &gt;</a>
+			</p>
+		</div>
+		
+		<div class="bigText">
+			<a class="heroLink" href="04Plan.htm">
+				<p class="bigWord">Plan</p>
+				<p class="smallWords">for financial assistance &gt;</p>
+			</a> 
+			<p class="twoLinks">
+				<a href="pay/cost/index.htm">Tuition and Fees &gt;</a>
+				<a href="pay/available/index.htm">Apply for Financial Aid &gt;</a>
+			</p>
+		</div>
+			
+
+
+			<div class="quickLinks">
+				<h1>Quick Links</h1>
+				<ul>
+<li><a href="https://onlcourses.tridenttech.edu/">Access My Courses (D2L)</a></li>
+<li><a href="academics/online/index.htm">Online College</a><a href="academics/evening/index.htm"></a></li>
+<li><a href="https://www.tridenttech.edu/ce/">Continuing Education</a></li>
+<li><a href="student/help/military/index.htm">Military / VA</a></li>
+<li><a href="https://secure.studentclearinghouse.org/tsorder/faces/TOBridge?_afrLoop=49571143900172&amp;_afrWindowMode=0&amp;_adf.ctrl-state=xy2ogjq6l_4">Order Transcripts</a></li>
+<li><a href="about/locations/conference/index.htm">Conference Services</a></li>
+<li><a href="foundation/index.htm">Support Trident Tech</a></li>
+<li><a href="academics/divisions/fsdirectory.htm">Faculty/Staff Directory</a></li>
+</ul>
+                
+			</div>
+			
+
+    <div class="news">
+		<h1>News</h1>
+						<p>Change your life with free tuition! <a href="landing/freetuition_spring2021.htm">Enroll Now &gt;</a></p>
+<p>Train for in-demand jobs. <a href="landing/secure.htm">Secure Your Future &gt;</a></p>
+<p><a href="landing/virtualopenhouse.htm">Attend a Virtual Open House &gt;</a></p>
+<p>Go to another college? Rethink your plans and stay local. <a href="landing/rethink.htm">Learn More &gt;</a></p>
+<p><a href="about/ttc/ttc_news.htm" title="Statement on Equality and Respect">TTC Statement on Equality and Respect</a></p>
+<!--  START::Zipline View Tag; DO NOT MODIFY TAG except to replace {emailSha1Hash}-->
+<script type="text/javascript">// <![CDATA[
+var _ibel = document.createElement('script');
+  _ibel.type = 'text/javascript';
+  _ibel.src = '//ib.mookie1.com/ibiview.js?go=316939&id1={emailSha1Hash}';
+  (document.getElementsByTagName('body')[0] || document.getElementsByTagName('head')[0]).appendChild(_ibel);
+// ]]></script>
+<noscript>
+	<iframe src="//ib.mookie1.com/view.html?go=316939" style="display: none;"></iframe>
+</noscript><!--  END::Zipline View Tag -->
+						
+	</div>
+		</div>
+		<footer>
+			
+			<div class="footerContent">
+<p class="footerAddress"><img alt="TTCLogo" src="_files/images/interface/TTCLogo.svg"/> <br/> PO Box 118067 <br/> Charleston, SC 29423 <br/> Info: 843-574-6111 <br/> Toll Free: 877-349-7184</p>
+<div class="socialMedia"><a href="https://www.facebook.com/pages/Trident-Technical-College/34430382854" rel="noopener" target="_blank"><img alt="icons_Facebook" src="_files/images/icons/icons_Facebook.svg" width="834"/></a> <a href="https://twitter.com/tridenttech" rel="noopener" target="_blank"><img alt="icons_Twitter" src="_files/images/icons/icons_Twitter.svg" width="834"/></a> <a href="https://instagram.com/tridenttech" rel="noopener" target="_blank"><img alt="icons_Insta" src="_files/images/icons/icons_Insta.svg" width="834"/></a> <a href="https://www.youtube.com/user/TridentTech" rel="noopener" target="_blank"><img alt="icons_YouTube" src="_files/images/icons/icons_YouTube.svg" width="834"/></a> <a href="https://www.linkedin.com/edu/school?id=21290&amp;trk=eml-edu-school_announce_continue_button&amp;ut=3uwtvOdh3b2C81" rel="noopener" target="_blank"><img alt="icons_Link" src="_files/images/icons/icons_Link.svg" width="834"/></a></div>
+<ul class="footerLinks">
+<li><a href="https://my.spectate.com/request-information-trident-technical-college-page">Request More Information About TTC</a></li>
+<li><a href="facultyStaff.htm">Faculty/Staff Resources</a></li>
+<li><a href="about/policies/8_hr/8-1-0.htm">Nondiscrimination Policy</a></li>
+<li><a href="about/titleIX/index.htm">Title IX Resources</a></li>
+<li><a href="access/index.htm">Web Accessibility</a></li>
+<li><a href="start/expect/ad_essinfo.htm">Essential Consumer Info</a></li>
+<li><a href="about/policies/16_adm_reg/16-7-1.htm">Privacy Statement</a></li>
+<li><a href="siteMap.htm">Site Map</a></li>
+</ul>
+<div class="ceAd">
+<p>TTC also offers noncredit courses</p>
+<p><a href="https://www.tridenttech.edu/ce/programs/catalog/index.htm">Enhance Your Career &gt;</a> <br/> <a href="https://www.tridenttech.edu/ce/programs/equip.htm">Equip Your Workforce &gt;</a> <br/> <a href="https://www.tridenttech.edu/ce/programs/catalog/index.htm">Explore New Interests &gt;</a></p>
+</div>
+<p class="copyRight">&#169; Trident Technical College</p>
+</div>
+			<script type="text/javascript">
+/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = '//siteimproveanalytics.com/js/siteanalyze_66357430.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+</script>
+		</footer>
+		<script src="_files/js/mobileMenu.js" type="text/javascript"></script>
+		<script type="text/javascript">
+  var menubar = new Menubar(document.getElementById('menubar1'));
+  menubar.init();
+</script>
+		<script type="text/javascript">
+  var sAId = "385";
+  var sCId = "2102";
+  
+  (function() {
+    function async_load(){
+      var s = document.createElement('script'); s.type = 'text/javascript';
+      s.src = (('https:' == document.location.protocol) ? "https://ssl.spectate.com" : "https://cdn.spectate.com") + "/s.js";
+      var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+    }
+    if(window.attachEvent) { window.attachEvent('onload', async_load); }
+    else { window.addEventListener('load', async_load, false); }
+  })();
+  
+  
+</script>
+	</body>
+</html>
